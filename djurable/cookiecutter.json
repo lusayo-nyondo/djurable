@@ -1,0 +1,9 @@
+{
+    "project_name": "My Django Project",
+    "project_slug": "my_project",
+    "author_name": "Your Name",
+    "django_version": "5.1",
+    "python_version": "3.11",
+    "use_postgres": "yes",
+    "use_docker": "yes"
+}
